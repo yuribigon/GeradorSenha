@@ -108,3 +108,7 @@ body{
     bottom: 50px;
     opacity: 1;
 }
+
+.footer{
+    color: rgba(255, 255, 255, 0.4)
+}
